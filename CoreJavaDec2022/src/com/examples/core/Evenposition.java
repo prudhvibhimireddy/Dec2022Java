@@ -1,5 +1,5 @@
 package com.examples.core;
-public class Evenposition {
+public class EvenPosition {
     public static void main(String[] args) {
         int[] a = {34, 67, 81, 97, 45, 54, 90, 83};
         System.out.print(" Numbers in even position are ");

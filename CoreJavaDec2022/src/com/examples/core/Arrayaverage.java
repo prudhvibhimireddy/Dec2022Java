@@ -1,6 +1,6 @@
 package com.examples.core;
 
-public class Arrayaverage {
+public class ArrayAverage {
     public static void main(String[] args) {
         int[] a = {1,2,3,4,5,6};
         float sum = 0;

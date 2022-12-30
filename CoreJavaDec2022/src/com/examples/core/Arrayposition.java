@@ -2,7 +2,7 @@ package com.examples.core;
 
 import java.util.Scanner;
 
- public class Arrayposition {
+ public class ArrayPosition {
     public static void main(String[] args) {
         int[] a = {34, 67, 81, 97, 45, 54, 90, 83};
         Scanner sc = new Scanner(System.in);

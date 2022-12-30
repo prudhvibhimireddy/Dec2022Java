@@ -1,5 +1,5 @@
 package com.examples.core;
-public class Divby235 {
+public class DivBy235 {
     public static void main(String[] args){
         int[] a = {34, 67, 81, 97, 45, 54, 90, 83};
                 int two=0; int three=0; int five=0;

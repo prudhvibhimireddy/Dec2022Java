@@ -1,6 +1,6 @@
 package com.examples.core;
 
-public class Mergetwoarrays {
+public class MergeTwoArrays {
     public static void main(String[] args) {
         int[] a = {1,3,5};
         int[] b = {2,4,7,9};

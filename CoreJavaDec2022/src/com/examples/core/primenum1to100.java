@@ -2,7 +2,7 @@ package com.examples.core;
 
 import java.util.Scanner;
 
-public class primenum1to100 {
+public class PrimeNum1to100 {
     public static void main(String[] args) {
         int k = 0;
         for (int i = 1; i <= 100; i++) {

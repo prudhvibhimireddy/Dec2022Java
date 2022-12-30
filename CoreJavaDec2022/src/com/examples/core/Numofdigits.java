@@ -2,7 +2,7 @@ package com.examples.core;
 
 import java.util.Scanner;
 
-public class Numofdigits {
+public class NumOfDigits {
     public static void main(String[] args) {
         int m= 4536;
         int n=m, digits=0;

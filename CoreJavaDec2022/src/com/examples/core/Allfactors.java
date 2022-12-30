@@ -2,7 +2,7 @@ package com.examples.core;
 
 import java.util.Scanner;
 
-public class Allfactors {
+public class AllFactors {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : ");
